@@ -1,0 +1,5 @@
+#  _p=Points _a=Assists _sa=Saves _st=Stuns _wi=Wins _l=Losses _wr=WinRate _gc=GameCount
+#Please see example below for help. I know this is complicated but for now this is how its gunna work till it gets integrated into the Stat Tracker
+#EXAMPLE 1: "Points: p Assists: a Stuns: st Win Rate: wr over gc games" | "Points: 0 Assists: 1 Stuns: 15 Win Rate: 67% over 59 games"
+#Next Line can be used as entry
+Points: _p , Assists: _a , Win Rate: _wr , Games: _gc 

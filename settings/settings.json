@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "resetStatsEveryBoot":"False",
+        "reload_speed":"1",
+        "buildWindow" : "False",
+        "windowSettings":{
+                            "window_background_color":"white",
+                            "label_background_color":"white",
+                            "text_color":"black",
+                            "width":"350",
+                            "height":"75",
+                            "do_extra_settings":"1",
+                            "do_windowless":"False"
+                        }
+    }
+}
